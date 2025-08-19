@@ -1,4 +1,6 @@
  💫 About Me
+
+ 
 👋 Hi there! I'm Hosanna Walle, a passionate FULL-Stack Web Developer based in Bahir Dar. I love building interactive web pages and exploring new technologies.<br><br>
 
 
