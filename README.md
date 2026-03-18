@@ -9,7 +9,7 @@
   <br><sub>✨ Full-Stack Developer in Action</sub>
 </div> -->
 <div align="center">
-  <img src="https://media.giphy.com/media/3o7aDgf124Nc6SCgSG/giphy.gif" alt="Hosanna Coding" width="600"/>
+<img src="https://media.giphy.com/media/l0MYC0LdjMMD9R3n2/giphy.gif" width="600" alt="Female Developer Workspace"/>
   <br><sub>👩‍💻 Passionate Full-Stack Developer Building the Future</sub>
 </div>
 👋 Hi there! I'm Hosanna Walle, a passionate FULL-Stack Web Developer based in Bahir Dar. I love building interactive web pages and exploring new technologies.<br><br>
