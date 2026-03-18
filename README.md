@@ -1,11 +1,12 @@
  💫 About Me
 
- <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=34D399&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;+Dala+Studio+Ambassador;+Bahir+Dar%2C+Ethiopia;+Next.js+%2B+React+Specialist;+Hackathon+Champion" alt="Typing SVG" />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there!+I%27m+Hosanna+Walle;+a+passionate+FULL-Stack+Web+Developer;+based+in+Bahir+Dar;+I+love+building+interactive;+web+pages+and+exploring;+new+technologies" alt="Typing Bio" />
 </p>
 
 <div align="center">
-  <img src="image.jpg" alt="Hosanna's Pixel Art Coding Setup" width="600"/>
+  [image.jpg](image.jpg)
+  <br><sub>Hosanna's Pixel Art Coding Setup ✨</sub>
 </div>
 👋 Hi there! I'm Hosanna Walle, a passionate FULL-Stack Web Developer based in Bahir Dar. I love building interactive web pages and exploring new technologies.<br><br>
 
