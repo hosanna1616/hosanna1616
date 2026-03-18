@@ -5,8 +5,8 @@
 </p>
 
 <div align="center">
-  [image.jpg](image.jpg)
-  <br><sub>Hosanna's Pixel Art Coding Setup ✨</sub>
+  <img src="https://images.unsplash.com/photo-1522071820081-009f0129c71c?ixlib=rb-4.0.3&auto=format&fit=crop&w=1000&q=80" alt="Female Developer Coding" width="600"/>
+  <br><sub>👩‍💻 Full-Stack Developer in action</sub>
 </div>
 👋 Hi there! I'm Hosanna Walle, a passionate FULL-Stack Web Developer based in Bahir Dar. I love building interactive web pages and exploring new technologies.<br><br>
 
