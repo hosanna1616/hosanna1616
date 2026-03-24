@@ -9,7 +9,7 @@
   <br><sub>✨ Full-Stack Developer in Action</sub>
 </div> 
 
-👋 Hi there! I'm Hosanna Walle, a passionate FULL-Stack Web Developer based in Bahir Dar. I love building interactive web pages and exploring new technologies.<br><br>
+👋 I’m Hosanna Walle, a Full-Stack Web Developer who builds fast, scalable, and user-focused web applications. I turn ideas into high-performing digital products using modern technologies, with a strong focus on clean code, performance, and seamless user experience..<br><br>
 
 
 🌐 Socials:
